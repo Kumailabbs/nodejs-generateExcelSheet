@@ -1,22 +1,28 @@
-# Node.js MQTT Integration Example
+# Excel Report Generator API
 
-This repository contains a simple Node.js application that integrates MQTT for messaging. The application uses Express.js to set up a basic server and MQTT to subscribe and publish messages.
+This repository contains the API service code for generating Excel reports from data retrieved from a database. The service is built with Node.js, Express, and Prisma ORM and utilizes ExcelJS for creating and managing Excel files.
 
-## Features
+## Getting Started
 
-- Basic Express server setup.
-- MQTT integration to subscribe and publish messages.
-- Environment variables for configuration.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Prerequisites
+### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-- Node.js installed (recommended: Node.js 12+).
-- MQTT broker (e.g., Mosquitto) accessible with a valid IP and port.
+What things you need to install the software and how to install them:
 
-## Installation
+- Node.js
+- npm (Node Package Manager)
+- A PostgreSQL database (or modify the Prisma schema for other databases)
 
-To install the dependencies, run the following command:
+### Installing
 
-```bash
-npm install
+A step-by-step series of examples that tell you how to get a development environment running:
+
+1. Clone the repository:
+   ```bash
+   git clone [https://yourrepositoryurl.git](https://github.com/Kumailabbs/nodejs-generateExcelSheet.git)
+
+2. Install dependencies:
+   cd your-repository-folder
+   npm install
+   npm start
