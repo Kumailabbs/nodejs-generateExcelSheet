@@ -25,4 +25,5 @@ A step-by-step series of examples that tell you how to get a development environ
 2. Install dependencies:
    cd your-repository-folder
    npm install
+   npm install exceljs
    npm start
