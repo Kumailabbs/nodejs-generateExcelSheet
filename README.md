@@ -20,7 +20,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 1. Clone the repository:
    ```bash
-   git clone [https://yourrepositoryurl.git](https://github.com/Kumailabbs/nodejs-generateExcelSheet.git)
+   git clone (https://github.com/Kumailabbs/nodejs-generateExcelSheet.git)
 
 2. Install dependencies:
    cd your-repository-folder
