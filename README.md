@@ -23,7 +23,7 @@ A step-by-step series of examples that tell you how to get a development environ
    git clone (https://github.com/Kumailabbs/nodejs-generateExcelSheet.git)
 
 2. Install dependencies:
-   cd your-repository-folder
-   npm install
-   npm install exceljs
-   npm start
+   - cd your-repository-folder
+   -  npm install
+   -  npm install exceljs\
+   -  npm start
